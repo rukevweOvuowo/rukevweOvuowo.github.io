@@ -45,10 +45,10 @@ https://rukevweOvuowo.github.io
 
 ## Contact
 
-- 📧 Email: rukevwe10@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/rukevwe-ovuowo  
-- 🌐 Website: https://rukevweOvuowo.github.io  
+- Email: rukevwe10@gmail.com  
+- LinkedIn: https://linkedin.com/in/rukevwe-ovuowo  
+- Website: https://rukevweOvuowo.github.io  
 
 ---
 
-> ⚠️ All security monitoring and incident work is based on Microsoft Sentinel & Defender XDR environments.
+> All security monitoring and incident work is based on Microsoft Sentinel & Defender XDR environments.
